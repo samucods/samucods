@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samucods
-- 👀 I’m interested in coing vs.net
+- 👀 I’m interested in coing vb.net
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me nope
